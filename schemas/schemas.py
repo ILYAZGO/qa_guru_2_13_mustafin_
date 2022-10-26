@@ -1,4 +1,4 @@
-from voluptuous import Schema, PREVENT_EXTRA, Required, Optional, ALLOW_EXTRA
+from voluptuous import Schema, PREVENT_EXTRA, Optional
 
 get_user_schema = Schema(
     {
